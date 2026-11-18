@@ -23,7 +23,7 @@ rtl1090x
 
 蓝色指示灯对应每秒 1、10、20、40、80、120 条消息。接收时本机可连接 Beast TCP 31001 和 SBS/BaseStation TCP 30003。Info 显示接收状态。如接收器退出，可从终端启动查看后端错误。
 
-本版实现接收控制、列表和本机 TCP 输出。原软件的 UDP 汇聚、Max/Min 调谐范围测试和多接收机串联尚未实现。界面依据 [RTL1090 公开操作说明](https://rtl1090.com/installation-manual-2/) 和经典接收面板布局独立编写。项目与 Jetvision 无隶属关系。
+本版实现接收控制、列表和本机 TCP 输出。待实现的功能见 [TODO](TODO.md)。界面依据 [RTL1090 公开操作说明](https://rtl1090.com/installation-manual-2/) 和经典接收面板布局独立编写。项目与 Jetvision 无隶属关系。
 
 ## 许可
 
