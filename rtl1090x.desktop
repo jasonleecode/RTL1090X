@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=RTL1090X
+Comment=1090 MHz Mode S receiver console
+Exec=rtl1090x
+Icon=network-wireless
+Terminal=false
+Categories=HamRadio;Utility;
